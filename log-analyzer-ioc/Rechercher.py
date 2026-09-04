@@ -30,4 +30,5 @@ with open (chem_fichier,"r",encoding="utf-8") as f :
             
     if alerte == False : 
         print("L'analyse de logs.txt n'a reveler aucune anomalie --- Fermeture du progaramme .......")
+    n=input("Appuyer sur entree pour fermer le terminal")
 
