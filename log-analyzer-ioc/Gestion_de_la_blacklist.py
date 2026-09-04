@@ -62,7 +62,10 @@ blacklist=[]
 blacklist = fonction_charger_la_blacklist(file_way)
 if (choix == 1) :
     fonction_ajout()
+    n=input("Appuyer entree ou toute autre touche pour fermer cette fenetre")
 if (choix == 2) :
     fonction_supprimer(file_way)
+    n=input("Appuyer entree ou toute autre touche pour fermer cette fenetre")
 if (choix == 3) :
     fonction_afficher_les_mots(file_way,blacklist)
+    n=input("Appuyer entree ou toute autre touche pour fermer cette fenetre")
