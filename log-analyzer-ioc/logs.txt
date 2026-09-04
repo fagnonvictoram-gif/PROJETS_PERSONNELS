@@ -1,0 +1,9 @@
+Action effectuee : Connexion SSH
+Action effectuee : connexion TELNET
+connexion brute force
+connexion normale 
+connexion ("echec")
+erreur
+eCHEC
+Action effectuee : hacking
+Action effectuee : af
