@@ -1,0 +1,10 @@
+build/
+bin/
+*.o
+*.d
+*.out
+*.exe
+core
+vgcore.*
+*.log
+.vscode/
